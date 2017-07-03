@@ -28,6 +28,7 @@ MODULES += modules/pe_utils.c
 #
 # MODULES += modules/yourmodule.c
 #
+MODULES += modules/pcap.c
 
 AM_YFLAGS=-d
 

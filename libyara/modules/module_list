@@ -18,3 +18,5 @@ MODULE(magic)
 #ifdef HASH_MODULE
 MODULE(hash)
 #endif
+
+MODULE(pcap)
